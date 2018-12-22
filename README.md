@@ -1,0 +1,2 @@
+# dork
+dork auto get
